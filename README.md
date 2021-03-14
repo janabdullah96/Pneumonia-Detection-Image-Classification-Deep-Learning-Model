@@ -1,4 +1,4 @@
-# Pneumonia Detection Image-Classification Deep Learning Model
+# Pneumonia Detection Image Classification Deep Learning Model
 Objective: To build a deep learning neural network model that predicts/classifies whether a patient has pneumonia using chest X-ray images as model inputs.
 
 ## Repo Contents
