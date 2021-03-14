@@ -10,7 +10,6 @@ A python package was created to serve as the infrastructure for this project.
 2. reader.py - contains functionality for reading image data.
 3. preprocessor.py - contains functionality for converting images into data formats (2D and 4D normalized numerical arrays) that are suitable for machile learning modeling.
 4. model.py - contains functionality to compile, train, and evaluate densely-connected and convolutional neural network models.
-Jupyter Notebooks
 
 ### Jupyter Notebooks
 1. preprocessing.ipynb - this notebook contains all the data preprocessing work, which entails reading image data and converting to 2D and 4D numpy arrays for neural network modeling compatibility. 
