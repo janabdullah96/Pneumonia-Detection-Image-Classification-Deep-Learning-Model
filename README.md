@@ -10,7 +10,7 @@ A python package was created to serve as the infrastructure for this project.
 
 1. dir_constructor.py - contains functionality for constructing a data directory where the images in the original dataset are split into train, test, and validation sets.
 2. reader.py - contains functionality for reading image data.
-3. preprocessor.py - contains functionality for converting images into data formats (2D and 4D normalized numerical arrays) that are suitable for machile learning modeling.
+3. preprocessor.py - contains functionality for converting images into data formats (2D and 4D normalized numerical arrays) that are suitable for machine learning modeling.
 4. model.py - contains functionality to compile, train, and evaluate densely-connected and convolutional neural network models.
 
 ### Jupyter Notebooks
